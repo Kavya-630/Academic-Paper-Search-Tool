@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/14Dtd53TB_WP592z9CFlV6iaAVPVGU48R
 """
 
-# Re-run this cell and follow the interactive prompts to authenticate
-from google.colab import drive
-drive.mount('/content/drive')
 
 
 import streamlit as st
