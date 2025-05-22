@@ -3,3 +3,4 @@ tqdm
 scikit-learn
 sentence-transformers
 numpy
+torch
