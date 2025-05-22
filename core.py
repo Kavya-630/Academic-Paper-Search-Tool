@@ -7,9 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1q-lo4vU9JUxJtQot2pd4QPa7CRUOSznH
 """
 
-# Re-run this cell and follow the interactive prompts to authenticate
-from google.colab import drive
-drive.mount('/content/drive')
+
 
 import json
 import os
