@@ -12,6 +12,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 
 pip install streamlit
+pip install -r requirements.txt
 
 import streamlit as st
 from core import load_arxiv_data, prepare_corpus, get_embeddings, search
